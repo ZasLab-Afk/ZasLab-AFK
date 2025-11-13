@@ -20,7 +20,7 @@ HTML | CSS | Java | Git | GitHub | VS Code | Maya | Substance Painter |
 - 💬 My LinkedIn https://www.linkedin.com/in/zaviann-bonner-3b649a2a7/
 
 
-  🚨Learning at The Momment🚨
+  🚨Learning at The Momment🚨 
   - JAVA
   - React
   - Tailwind
