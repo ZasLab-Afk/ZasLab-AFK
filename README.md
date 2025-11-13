@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there im Zaviabb Bonner👋
 
-<!--
-**ZasLab-Afk/ZasLab-AFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who enjoys bringing ideas to life with code.  
+I love working with HTML, CSS, and Java to build cool projects and keep learning along the way
 
-Here are some ideas to get you started:
+  🌱 About Me
+- 🎓 Currently enrolled as a student at Fullsail University
+- 💻 Currently exploring front-end design  
+- 🎨 Enjoy turning ideas into clean and simple designs  
+- 🚀 Always learning something new in tech weather its an app, proogram,or a tool 
+- ☕ Big fan of late-night coding sessions and learning anything i can get my hands on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   🛠️ Languages & Tools
+HTML | CSS | Java | Git | GitHub | VS Code | Maya | Substance Painter |
+
+  📫 Get In Contact With Me
+- 💌 Email: zaman99z@gmail.com    
+- 💬 My LinkedIn https://www.linkedin.com/in/zaviann-bonner-3b649a2a7/
+
+
+  🚨Learning at The Momment🚨
+  - JAVA
+  - React
+  - Tailwind
