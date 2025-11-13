@@ -1,4 +1,4 @@
-## Hi there im Zaviabb Bonner👋
+## Hi there im Zaviann👋
 
 I’m a developer who enjoys bringing ideas to life with code.  
 I love working with HTML, CSS, and Java to build cool projects and keep learning along the way
